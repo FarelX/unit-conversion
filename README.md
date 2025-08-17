@@ -36,4 +36,4 @@ A simple, responsive web application that converts between Metric and Imperial u
 
 ## 🔧 How to Use -
 
-**Open in Browser** : [Live - Click here](/)
+**Open in Browser** : [Live - Click here](/https://farelx.github.io/unit-conversion/)
